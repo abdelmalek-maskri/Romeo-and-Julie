@@ -42,7 +42,7 @@ Similar to Romeo, but focuses on Juliet's perspective. It includes:
 javac PlayWriter.java Romeo.java Juliet.java
 ```
 
-###Start the servers:
+## Start the servers:
 
 ```bash
 java Juliet <initialLoveValue>
